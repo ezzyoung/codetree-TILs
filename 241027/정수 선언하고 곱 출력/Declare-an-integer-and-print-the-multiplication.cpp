@@ -6,6 +6,7 @@ int main() {
     int b = 5;
     int c = 26*5;
 
-    cout<<"26 * 5 = ";c;
+    cout<<"26 * 5 = ";
+    cout<< c;
     return 0;
 }
